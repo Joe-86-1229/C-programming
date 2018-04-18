@@ -1,3 +1,6 @@
+# A simple inventory program which can store, sort, delete, find items 
+
+
 #include<iostream>
 #include<iomanip>
 #include<string>
@@ -39,7 +42,7 @@ int main()
 	cout<<"Select the function you want \n(g)etname\n(f)indname\n(d)isplayname\n(r)emoveName\n(s)ort the vector\n(q)uit\n(t)estdata\n"
 	<<"(l)getlastnamelist \n(i)ndexsearch\n(o)penfile\n(v)savefile "<<endl;
 	cin>>select;
-    cin.ignore(256, '\n');
+    	cin.ignore(256, '\n');
 	switch(select)
 	{
 		case 'g' : getName(names);break;
