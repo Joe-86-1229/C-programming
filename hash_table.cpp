@@ -1,8 +1,9 @@
+// implement a hash table using C
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> 
-
 
 #include "string_set.h"
 
