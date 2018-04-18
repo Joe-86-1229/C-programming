@@ -1,4 +1,4 @@
-# A simple inventory program which can store, sort, delete, find items 
+// A simple inventory program which can store, sort, delete, find items 
 
 
 #include<iostream>
