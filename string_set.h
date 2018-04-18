@@ -1,3 +1,5 @@
+#header file for C hash table
+
 using namespace std;
 
 class string_set {
